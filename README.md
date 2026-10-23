@@ -1,6 +1,9 @@
 <div align="center">
   <h1>🎵 Fetchly</h1>
   <p><b>A modern, fast & simple Discord bot to download YouTube audio and videos directly into your channels.</b></p>
+  <p align="center">
+    <img src="https://i.imgur.com/v3l2k0o.png" alt="Fetchly Banner" width="1280" height="640">
+  </p>
   
   <p>
     <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Version">

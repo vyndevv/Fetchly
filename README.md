@@ -51,7 +51,7 @@ When generating your bot invite link under **OAuth2**, ensure you enable:
 #### 1. Clone the Repository
 Clone or download this repository to your local machine:
 ```bash
-git clone [https://github.com/vyndevv/fetchly.git](https://github.com/vyndevv/fetchly.git)
+git clone https://github.com/vyndevv/Fetchly.git
 cd fetchly
 ```
 

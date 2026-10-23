@@ -1,0 +1,8 @@
+start.bat
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+Thumbs.db
+desktop.ini
+.vscode/
